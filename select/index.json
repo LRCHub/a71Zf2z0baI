@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ねっこ",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-02T14:05:20.134075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねっこ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_ねっこ_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ねっこ - Nekko",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_ねっこ_-_Nekko_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ねっこ",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/03_ねっこ_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねっこ",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_ねっこ_King_Gnu.txt"
+    }
+  ]
+}
